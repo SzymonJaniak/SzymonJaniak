@@ -10,7 +10,6 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning JAVA<br>🎯 Goals: IDK<br></p>
 
 ###
 
