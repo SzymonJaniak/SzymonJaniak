@@ -6,7 +6,8 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left"></h2> 
+<a href="(https://szymonjaniak.vercel.app/" >Portfolio</a>
 
 ###
 
