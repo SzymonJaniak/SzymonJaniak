@@ -45,13 +45,15 @@
 <h3 align="left">Inne technologie</h3>
 
 <ul align="left">
-  <li>Node.js</li>
-  <li>Express.js</li>
-  <li>MongoDB</li>
-  <li>PostgreSQL</li>
-  <li>Docker</li>
+  <li>PHP</li>
+  <li>JavaScript</li>
+  <li>MariaDB</li>
+  <li>Joomla</li>
+  <li>C++</li>
+  <li> Angular</li>
+    <li> MySql</li>
+
   <li>Git</li>
-  <li>GitHub</li>
 </ul>
 
 <h2 align="left">Linki</h2>
