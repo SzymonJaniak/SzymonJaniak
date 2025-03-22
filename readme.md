@@ -8,6 +8,7 @@
 
 <h2 align="left"></h2> 
 <a href="(https://szymonjaniak.vercel.app/" >Portfolio</a>
+<h2 align="left">https://szymonjaniak.vercel.app/</h2> 
 
 ###
 
