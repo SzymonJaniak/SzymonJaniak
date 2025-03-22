@@ -57,8 +57,7 @@
 <h2 align="left">Linki</h2>
 
 <ul align="left">
-  <li><a href="https://github.com/szymonjaniak">GitHub</a></li>
-  <li><a href="https://www.linkedin.com/in/szymon-janiak">LinkedIn</a></li>
+  <li><a href="https://www.linkedin.com/in/szymonjaniakprogramista/">LinkedIn</a></li>
   <li><a href="https://leetcode.com/szymonjaniak">LeetCode</a></li>
 </ul>
 
