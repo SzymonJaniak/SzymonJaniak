@@ -7,7 +7,7 @@
 ###
 
 <h2 align="left"></h2> 
-<h2 align="left">I code with</h2>
+<h2 align="left">Portfolio</h2>
 
 <h2 align="left">https://szymonjaniak.vercel.app/</h2> 
 
